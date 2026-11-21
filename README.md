@@ -15,8 +15,7 @@ Cara Menjalankan Aplikasi (How to Run)
 4. Jalankan aplikasi di emulator atau perangkat yang terhubung (flutter run) 
 
 ### Deklarasi Penggunaan AI
-- Pernyataan: 
-  "Saya menyatakan bahwa saya memahami alur dan fungsi dari seluruh kode yang ada dalam repositori ini"
+
 
 - Apakah menggunakan AI? Tidak (belajar dari tutorial YouTube dan referensi repositori orang lain)
 - Tool AI yang digunakan: Tidak menggunakan
