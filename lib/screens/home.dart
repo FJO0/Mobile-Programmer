@@ -209,10 +209,10 @@ class _HomeState extends State<Home> {
             size: 30,
           ),
           Container(
-            height: 60, // Tinggi foto diperbesar
-            width: 140,   //    Lebar foto disesuaikan proporsinya
+            height: 40, // Tinggi foto diperbesar
+            width: 80,   //    Lebar foto disesuaikan proporsinya
             child: ClipRRect(
-              borderRadius: BorderRadius.circular(10),
+              borderRadius: BorderRadius.circular(20),
               child: Image.asset(
                 'assets/images/avatar.jpeg',
                 fit: BoxFit.cover, // Memaksa foto mengisi penuh ukuran Container
